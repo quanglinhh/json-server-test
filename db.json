@@ -22,7 +22,7 @@
         },
         {
             "id":3,
-           " name": "Covid Nhanh Đi Đi",
+           "name": "Covid Nhanh Đi Đi",
             "singer": "K-ICM,APJ,Huyền Thanh Môn",  
             "path": "./assets/music/song11.mp3", 
             "image": "./assets/img/image3.jpg",
@@ -42,7 +42,7 @@
         },
         {
             "id":5,
-            "name:":"What Are Words",
+            "name": "What Are Words",
             "singer": "Chris Medina",
             "path": "./assets/music/song1.mp3", 
             "image": "./assets/img/image5.jpg",
