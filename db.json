@@ -171,5 +171,12 @@
             "Genres":"jazz",
             "Album":"jazz"
         }
+    ],
+    "member":[
+        {
+            "id":1,
+            "account":"taikhoanso1",
+            "password":"matkhauso1"
+        }
     ]
 }
