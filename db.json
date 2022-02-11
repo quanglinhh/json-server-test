@@ -8,7 +8,8 @@
             "image": "./assets/img/image1.jpg",
             "composer":"2T",
             "Genres":"Nhạc trẻ",
-            "Album":"null"
+            "Album":"null",
+            "playlistId":"1"
         },
         {
             "id":2,
@@ -18,7 +19,8 @@
             "image": "./assets/img/image2.jpg",
             "composer":"Nal",
             "Genres":"Nhạc trẻ",
-            "Album":""
+            "Album":"",
+            "playlistId":"1"
         },
         {
             "id":3,
@@ -28,7 +30,8 @@
             "image": "./assets/img/image3.jpg",
             "composer":"Huyền Thanh Môn",
             "Genres":"Nhạc trẻ",
-            "Album":""
+            "Album":"",
+            "playlistId":"1"
         },
         {
             "id":4,
@@ -38,7 +41,8 @@
             "image": "./assets/img/image4.jpg",
             "composer":"Sơn Tùng MTP",
             "Genres":"Nhạc trẻ",
-            "Album":""
+            "Album":"",
+            "playlistId":"1"
         },
         {
             "id":5,
@@ -48,7 +52,8 @@
             "image": "./assets/img/image5.jpg",
             "composer":"Andre Lindal, Rodney jerkins, Lauren Christy",
             "Genres":"Pop",
-            "Album":"null" 
+            "Album":"null",
+            "playlistId":"1" 
         },
         {
             "id":6,
@@ -58,7 +63,8 @@
             "image": "./assets/img/image6.jpg",
             "composer": "null",
             "Genres":"Dance/Electronic",
-            "Album": "null"
+            "Album": "null",
+            "playlistId":"1"
         },
         {
             "id":7,
@@ -68,7 +74,8 @@
             "image": "./assets/img/image7.jpg",
             "composer": "Charlie Puth, Selena Gomez, Jacob Kasher",
             "Genres":"Pop",
-            "Album":"null"
+            "Album":"null",
+            "playlistId":"1"
         },
         {
             "id":8,
@@ -78,7 +85,8 @@
             "image": "./assets/img/image8.jpg",
             "composer": "null",
             "Genres":"Pop",
-            "Album":"null"
+            "Album":"null",
+            "playlistId":"1"
         },
         {
             "id":9,
@@ -88,7 +96,8 @@
             "image": "./assets/img/image9.jpg",
            "composer": "WOWY",
            "Genres":"Rap, Hiphop",
-           "Album":"null"
+           "Album":"null",
+           "playlistId":"1"
         },
         {
             "id":10,
@@ -98,7 +107,8 @@
             "image": "./assets/img/image10.jpg",
             "composer": "Chris Martin",
             "Genres":"EDM pop",
-            "Album":"null"
+            "Album":"null",
+            "playlistId":"1"
         },
         {
             "id":11,
@@ -108,7 +118,8 @@
             "image": "./assets/img/image11.jpg",
             "composer": "null",
             "Genres":"Pop Punk",
-            "Album":"null"
+            "Album":"null",
+            "playlistId":"1"
         },
         {
             "id":12,
@@ -118,7 +129,8 @@
             "image": "./assets/img/image12.jpg",
             "composer": "null",
             "Genres":"Tropical house, pop rock",
-            "Album":"null"
+            "Album":"null",
+            "playlistId":"1"
         },
         {
             "id":13,
@@ -128,7 +140,8 @@
             "image": "Assets/img/allthat.jpg",
             "composer":"unknow",
             "Genres":"jazz",
-            "Album":"jazz"
+            "Album":"jazz",
+            "playlistId":"1"
 
         },
         {
@@ -139,7 +152,8 @@
             "image": "Assets/img/jazzcomedy.jpg",
             "composer":"unknow",
             "Genres":"jazz",
-            "Album":"jazz"
+            "Album":"jazz",
+            "playlistId":"1"
         },
         {
             "id": 15,
@@ -149,7 +163,8 @@
             "image": "Assets/img/jazzyfrenchy.jpg",
             "composer":"unknow",
             "Genres":"jazz",
-            "Album":"jazz"
+            "Album":"jazz",
+            "playlistId":"1"
         },
         {
             "id":16,
@@ -159,7 +174,8 @@
             "image": "Assets/img/love.jpg",
             "composer":"unknow",
             "Genres":"jazz",
-            "Album":"jazz"
+            "Album":"jazz",
+            "playlistId":"1"
         },
         {
             "id":17,
@@ -169,7 +185,8 @@
             "image": "Assets/img/thejazzpiano.jpg",
             "composer":"unknow",
             "Genres":"jazz",
-            "Album":"jazz"
+            "Album":"jazz",
+            "playlistId":"1"
         }
     ],
     "member":[
@@ -177,6 +194,13 @@
             "id":1,
             "account":"taikhoanso1",
             "password":"matkhauso1"
+        }
+    ],
+    "playlist":[
+        {
+        "id":1,
+        "playlistName":"Today Playlist",
+        "playlistImg":"./assets/img/Today.png"
         }
     ]
 }
