@@ -202,5 +202,13 @@
         "playlistName":"Today Playlist",
         "playlistImg":"./assets/img/Today.png"
         }
+    ],
+    "singer":[
+        {
+            "id":1,
+            "singerName":"Sơn Tùng MTP",
+            "singerImg":"./assets/img/SonTung.jpg",
+            "country":"Việt Nam"
+        }
     ]
 }
