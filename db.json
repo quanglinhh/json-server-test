@@ -208,6 +208,7 @@
             "id":1,
             "singerName":"Sơn Tùng MTP",
             "singerImg":"./assets/img/SonTung.jpg",
+            "backgroundImg":"./assets/img/sontungMTP-bg.jpg",
             "country":"Việt Nam"
         }
     ]
