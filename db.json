@@ -210,6 +210,20 @@
             "singerImg":"./assets/img/SonTung.jpg",
             "backgroundImg":"./assets/img/sontungMTP-bg.jpg",
             "country":"Việt Nam"
+        },
+        {
+            "id":2,
+            "singerName":"Chris Medina",
+            "singerImg":"./assets/img/Chris-Medina.jpg",
+            "backgroundImg":"./assets/img/Chris-Medina-bg.jpg",
+            "country":"United States"
+        },
+        {
+            "id":3,
+            "singerName":"WOWWY",
+            "singerImg":"./assets/img/wowy.png",
+            "backgroundImg":"./assets/img/wowy-bg.jpg",
+            "country":"Việt Nam"
         }
     ]
 }
