@@ -36,7 +36,7 @@
         {
             "id":4,
             "name": "Muộn Rồi Mà Sao Còn",
-            "singer": "Sơn Tùng M-TP",
+            "singerID": "1",
             "path": "./assets/music/song7.mp3",
             "image": "./assets/img/image4.jpg",
             "composer":"Sơn Tùng MTP",
@@ -201,6 +201,7 @@
         "id":1,
         "playlistName":"Today Playlist",
         "playlistImg":"./assets/img/Today.png"
+
         }
     ],
     "singer":[
