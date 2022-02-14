@@ -220,8 +220,8 @@
         },
         {
             "id":3,
-            "singerName":"WOWWY",
-            "singerImg":"./assets/img/wowy.png",
+            "singerName":"WOWY",
+            "singerImg":"./assets/img/Wowy.png",
             "backgroundImg":"./assets/img/wowy-bg.jpg",
             "country":"Việt Nam"
         }
