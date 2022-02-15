@@ -36,7 +36,7 @@
         {
             "id":4,
             "name": "Muộn Rồi Mà Sao Còn",
-            "singerID": "1",
+            "singerId": "1",
             "path": "./assets/music/song7.mp3",
             "image": "./assets/img/image4.jpg",
             "composer":"Sơn Tùng MTP",
