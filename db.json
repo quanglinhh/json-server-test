@@ -121,6 +121,7 @@
             "id":11,
             "name": "Monsters",
             "singer": "Katie Sky",
+            "singerId": "9",
             "path": "./assets/music/song9.mp3",
             "image": "./assets/img/image11.jpg",
             "composer": "null",
@@ -263,6 +264,18 @@
             "singerName":"J Fla",
             "singerImg":"./assets/img/jfla.jpg",
             "backgroundImg":"./assets/img/jfla-bg.jpg"
+        },
+        {
+            "id":9,
+            "singerName":"Katie Sky",
+            "singerImg":"./assets/img/Katie-sky.jpg",
+            "backgroundImg":"./assets/img/katie-sky-bg.jpg"
+        },
+        {
+            "id":10,
+            "singerName":"The Chainsmoker",
+            "singerImg":"./assets/img/theC.jpg",
+            "backgroundImg":"./assets/img/theC-bg.jpg"
         }
     ]
 }
