@@ -36,6 +36,7 @@
         {
             "id":4,
             "name": "Muộn Rồi Mà Sao Còn",
+            "singer":"Sơn Tùng MTP",
             "singerId": "1",
             "path": "./assets/music/song7.mp3",
             "image": "./assets/img/image4.jpg",
@@ -48,6 +49,7 @@
             "id":5,
             "name": "What Are Words",
             "singer": "Chris Medina",
+            "singerId": "2",
             "path": "./assets/music/song1.mp3", 
             "image": "./assets/img/image5.jpg",
             "composer":"Andre Lindal, Rodney jerkins, Lauren Christy",
@@ -91,6 +93,7 @@
         {
             "id":9,
             "name":"Thiên Đàng ft JOLIPOLI",
+            "singerId": "3",
             "singer": "WOWY",
             "path": "./assets/music/song5.mp3",
             "image": "./assets/img/image9.jpg",
