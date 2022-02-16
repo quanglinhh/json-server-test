@@ -14,7 +14,8 @@
         {
             "id":2,
             "name": "Rời Tới Luôn",
-            "singer":"Nal",  
+            "singer":"Nal", 
+            "singerId": "4", 
             "path": "./assets/music/song12.mp3", 
             "image": "./assets/img/image2.jpg",
             "composer":"Nal",
@@ -61,6 +62,7 @@
             "id":6,
             "name": "Lily",
             "singer": "Alan Walker,K-391",
+            "singerId": "7",
             "path": "./assets/music/song2.mp3",
             "image": "./assets/img/image6.jpg",
             "composer": "null",
@@ -72,6 +74,7 @@
             "id":7,
             "name": "We Don't Talk Anymore",
             "singer":"Charlie Puth",
+            "singerId": "6",
             "path": "./assets/music/song3.mp3",
             "image": "./assets/img/image7.jpg",
             "composer": "Charlie Puth, Selena Gomez, Jacob Kasher",
@@ -83,6 +86,7 @@
             "id":8,
             "name": "Shape Of You",
             "singer": "Cover by J.Fla",
+            "singerId": "8",
             "path": "./assets/music/song4.mp3",
             "image": "./assets/img/image8.jpg",
             "composer": "null",
@@ -127,6 +131,7 @@
         {
             "id":12,
             "name": "Reality",
+            "singerId": "5",
             "singer": "Janieck Devy",
             "path": "./assets/music/song10.mp3",
             "image": "./assets/img/image12.jpg",
@@ -228,6 +233,36 @@
             "singerImg":"./assets/img/Wowy.png",
             "backgroundImg":"./assets/img/wowy-bg.jpg",
             "country":"Việt Nam"
+        },
+        {
+            "id":4,
+            "singerName":"Nal",
+            "singerImg":"./assets/img/Nal.jpg",
+            "backgroundImg":"./assets/img/Nal-bg.jpg"
+        },
+        {
+            "id":5,
+            "singerName":"Janieck Devy",
+            "singerImg":"./assets/img/janieck-devy.jpg",
+            "backgroundImg":"./assets/img/janieck-devy-bg.jpg"
+        },
+        {
+            "id":6,
+            "singerName":"Charlie Puth",
+            "singerImg":"./assets/img/chalie-puth.jpg",
+            "backgroundImg":"./assets/img/charlie-puth-bg.jpg"
+        },
+        {
+            "id":7,
+            "singerName":"Alan Walker",
+            "singerImg":"./assets/img/alan-walker.jpg",
+            "backgroundImg":"./assets/img/alan-walker-bg.jpg"
+        },
+        {
+            "id":8,
+            "singerName":"J Fla",
+            "singerImg":"./assets/img/jfla.jpg",
+            "backgroundImg":"./assets/img/jfla-bg.jpg"
         }
     ]
 }
