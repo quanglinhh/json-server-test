@@ -110,6 +110,7 @@
             "id":10,
             "name": "Something Just Like",
             "singer": "The Chainsmokers",
+            "singerId": "10",
             "path": "./assets/music/song6.mp3",
             "image": "./assets/img/image10.jpg",
             "composer": "Chris Martin",
