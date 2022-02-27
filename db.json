@@ -146,36 +146,38 @@
         },
         {
             "id":13,
-           "name": "All that",
-            "singer": "unknow",
-            "path": "Assets/Music/bensound-allthat.mp3",
-            "image": "Assets/img/allthat.jpg",
+           "name": "Save Your Tears",
+           "singer":"The Weeknd", 
+           "singerId": "4", 
+            "path": "Assets/Music/saveyourtears.mp3",
+            "image": "Assets/img/SaveYourTears.jpg",
             "composer":"unknow",
-            "Genres":"jazz",
-            "Album":"jazz",
+            "Genres":"R&B/Soul",
+            "Album":"The Weeknd",
             "playlistId":"1"
 
         },
         {
             "id":14,
-            "name": "Jazz Comedy",
-            "singer": "unknow",
-            "path": "Assets/Music/bensound-jazzcomedy.mp3",
-            "image": "Assets/img/jazzcomedy.jpg",
-            "composer":"unknow",
-            "Genres":"jazz",
-            "Album":"jazz",
+            "name": "Circles",
+            "singer": "Post Malone",
+            "singerId": "13", 
+            "path": "Assets/Music/Circles.mp3",
+            "image": "Assets/img/Circles.jpg",
+            "composer":"Post Malone",
+            "Genres":"Hip-hop/Rap,Pop",
+            "Album":"",
             "playlistId":"1"
         },
         {
             "id": 15,
-            "name": "Jazzy Frenchy",
-            "singer": "unknow",
-            "path": "Assets/Music/bensound-jazzyfrenchy.mp3",
-            "image": "Assets/img/jazzyfrenchy.jpg",
-            "composer":"unknow",
-            "Genres":"jazz",
-            "Album":"jazz",
+            "name": "Feels",
+            "singer": "Calvin Harris",
+            "path": "Assets/Music/Feels.mp3",
+            "image": "Assets/img/Feels.jpg",
+            "composer":"Calvin Harris",
+            "Genres":"Dance/Electronic",
+            "Album":"",
             "playlistId":"1"
         },
         {
@@ -291,6 +293,18 @@
             "singerName":"Pink Sweat$",
             "singerImg":"./assets/img/pinksweat.jpg",
             "backgroundImg":"./assets/img/pinksweat-bg.jpg"
+        },
+        {
+            "id":13,
+            "singerName":"Post Malone",
+            "singerImg":"./assets/img/Post_Malone.jpg",
+            "backgroundImg":"./assets/img/post-malone-bg.jpg"
+        },
+        {
+            "id":14,
+            "singerName":"Calvin Harris",
+            "singerImg":"./assets/img/ch.jpg",
+            "backgroundImg":"./assets/img/ch-bg.jpg"
         }
     ]
 }
