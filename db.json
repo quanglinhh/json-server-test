@@ -151,9 +151,9 @@
            "singerId": "4", 
             "path": "Assets/Music/saveyourtears.mp3",
             "image": "Assets/img/saveyourtears.jpg",
-            "composer":"unknow",
+            "composer":"The Weeknd",
             "Genres":"R&B/Soul",
-            "Album":"The Weeknd",
+            "Album":"null",
             "playlistId":"1"
 
         },
@@ -166,7 +166,7 @@
             "image": "Assets/img/circles.jpg",
             "composer":"Post Malone",
             "Genres":"Hip-hop/Rap,Pop",
-            "Album":"",
+            "Album":"null",
             "playlistId":"1"
         },
         {
@@ -178,7 +178,7 @@
             "image": "Assets/img/feels.jpg",
             "composer":"Calvin Harris",
             "Genres":"Dance/Electronic",
-            "Album":"",
+            "Album":"null",
             "playlistId":"1"
         },
         {
